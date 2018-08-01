@@ -1,0 +1,15 @@
+.flashy{
+  color:red;
+  font-style: italic;
+}
+
+.notflashy{
+  color:grey;
+}
+.blue{
+  color:blue;
+}
+
+.best{
+  text-shadow: 1px 1px grey;
+}
